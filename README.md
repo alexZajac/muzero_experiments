@@ -6,6 +6,12 @@ In 2016, Deepmind introduced [AlphaGo](https://deepmind.com/research/case-studie
 
 This reprository is groups of methods to assess and compare DeepMind's MuZero algorithm.
 It was created in the context of the MAP670C - Reinforcement Learning (2020-2021) course with l'Ecole Polytechnique.
-The majority of the code was forked and adapted for demo from [https://github.com/werner-duvaud/muzero-general](MuZero General) and [https://github.com/jpbruneton/Alpha-Zero-algorithm-for-Connect-4-game](AlphaZero for Connect4).
+The majority of the code was forked and adapted for demo from [MuZero General](https://github.com/werner-duvaud/muzero-general) and [AlphaZero for Connect4](https://github.com/jpbruneton/Alpha-Zero-algorithm-for-Connect-4-game).
 
 ## A set of demos and comparisons of MuZero 🔥
+
+### CartPole and LunarLander 🚀
+
+### Board Games ♟️
+
+### Comparison to AlphaZero and Minimax with alpha-beta pruning 🐍
